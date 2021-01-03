@@ -13,7 +13,7 @@ function setup() {
 
   speed=random(223,321)
   weight=random(30,52)
-  thickness=random(400,1500);
+  thickness=random(22,83);
 
 }
 
